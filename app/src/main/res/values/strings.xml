@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Info Produit</string>
+    <string name="title_activity_info">info</string>
+    <string name="tab_text_1">Général</string>
+    <string name="tab_text_2">Fournisseur</string>
+    <string name="tab_text_3">Stock</string>
+</resources>
